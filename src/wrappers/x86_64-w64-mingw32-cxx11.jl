@@ -41,7 +41,7 @@ end
 
 
 # Relative path to `imagemagick_convert`
-const imagemagick_convert_splitpath = ["bin", "imagemagick_convert.exe"]
+const imagemagick_convert_splitpath = ["bin", "convert.exe"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 imagemagick_convert_path = ""
