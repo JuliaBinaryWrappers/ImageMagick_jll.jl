@@ -6,14 +6,15 @@ using libpng_jll
 using JpegTurbo_jll
 using Libtiff_jll
 using Ghostscript_jll
+using OpenJpeg_jll
 JLLWrappers.@generate_wrapper_header("ImageMagick")
-JLLWrappers.@declare_library_product(libwand, "libMagickWand-6.Q16.so.7")
+JLLWrappers.@declare_library_product(libwand, "libMagickWand-6.Q16.so.6")
 JLLWrappers.@declare_executable_product(identify)
 JLLWrappers.@declare_executable_product(imagemagick_convert)
 JLLWrappers.@declare_executable_product(mogrify)
 JLLWrappers.@declare_executable_product(montage)
 function __init__()
-    JLLWrappers.@generate_init_header(Zlib_jll, libpng_jll, JpegTurbo_jll, Libtiff_jll, Ghostscript_jll)
+    JLLWrappers.@generate_init_header(Zlib_jll, libpng_jll, JpegTurbo_jll, Libtiff_jll, Ghostscript_jll, OpenJpeg_jll)
     JLLWrappers.@init_library_product(
         libwand,
         "lib/libMagickWand-6.Q16.so",
