@@ -8,7 +8,7 @@ using OpenJpeg_jll
 using Zlib_jll
 using libpng_jll
 JLLWrappers.@generate_wrapper_header("ImageMagick")
-JLLWrappers.@declare_library_product(libwand, "libMagickWand-6.Q16-7.dll")
+JLLWrappers.@declare_library_product(libwand, "libMagickWand-7.Q16HDRI-10.dll")
 JLLWrappers.@declare_executable_product(identify)
 JLLWrappers.@declare_executable_product(imagemagick_convert)
 JLLWrappers.@declare_executable_product(mogrify)
@@ -17,7 +17,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Ghostscript_jll, JpegTurbo_jll, Libtiff_jll, OpenJpeg_jll, Zlib_jll, libpng_jll)
     JLLWrappers.@init_library_product(
         libwand,
-        "bin\\libMagickWand-6.Q16-7.dll",
+        "bin\\libMagickWand-7.Q16HDRI-10.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

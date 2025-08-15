@@ -1,316 +1,316 @@
 [[ImageMagick]]
 arch = "aarch64"
-git-tree-sha1 = "48156f518a7ce6ed626bca36acfc1b3b169ac49c"
+git-tree-sha1 = "4220acd9735694fc799ade1334bf7acf19be30fb"
 os = "macos"
 
     [[ImageMagick.download]]
-    sha256 = "6980ee94f6eac4ea6025ad8fadf374757c14e32838834a99ab191fefd70756bd"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.aarch64-apple-darwin.tar.gz"
+    sha256 = "b025a414275d4c3fb1c54932447eda818c24bb48fbff4e7879bdda59b6fa313a"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.aarch64-apple-darwin.tar.gz"
 [[ImageMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f69ae5078510fffe900ea797f91baef819cc0651"
+git-tree-sha1 = "5fb1885b4ed9ffba15d7eb5c81fbadead94cb937"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "b8b669291654f216900af8ddc17a00f9af66a04da8c6a80df215972010f72719"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "3ee229306f652a68f03cb977f39afb8dfd480f6a3568804d986f5051c86f27c4"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.aarch64-linux-gnu-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "908ace0dca143829f79f47a9078fdf65f96f52bd"
+git-tree-sha1 = "a78d2dc41bb238069bc63bf08274495277cc5c26"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "dabe82f87c6cf7d61dd9b2bd6aa65504ff3b0ab114428de3d9272bdb2c1e2513"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "523d7922f2acbcba563689341f4992ec861bc795377eaf677a7b4527c422d48a"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.aarch64-linux-gnu-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a85f7e5c4fd896b4e709add78c594e47dcfd721"
+git-tree-sha1 = "c5312cabe192962261b183dde1d946acb2b854c3"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "146281c0ba4addf39da62df802dbccd4d250d749842ccb0d346c343de0829e69"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "9996ebd86ebcb3ef836cf08301838b220ce7ba7fd6be9dadf2585ddc1b604643"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.aarch64-linux-musl-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d0af9f0f11833a9fbcb72bff5842d61ca8339ffd"
+git-tree-sha1 = "fa04bc2849ddf1b376dd20da08c53f600cfc606b"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "850ca2383a18019b2801fdb9a83035292f9f5210ec13938f1af40fe88398b802"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "95cdf2d9ad5c53d237aa21cc68be73f86cdd514ac0f9bd241a0ab01c413e5e0b"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.aarch64-linux-musl-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "aarch64"
-git-tree-sha1 = "d578c4cac1579a2d62445f4f6aa2d4d8210eb745"
+git-tree-sha1 = "65f1f23e6c4315a95bf00106041886102f817daa"
 os = "freebsd"
 
     [[ImageMagick.download]]
-    sha256 = "0411b50cda7ccd01b47c942b8f79003083d74b92d2df71e751c7f0e39eda1cae"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "249364dc27cea20f082bf4444689c76c9337d456bb47ef445b490ee98ee9760a"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.aarch64-unknown-freebsd.tar.gz"
 [[ImageMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "68619d6721193fb2ac70b202b2dc40066ab325a1"
+git-tree-sha1 = "56bb055805bc1424f36fca3f899d468bd9325586"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "2e9f578932e621ed29a1cf272230a9cd4f86a32001eac7fd67b45d8a016fa873"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "d9086a524b092445f6cc139bd09d257f6c4333dc3b24f8fc43c662766414541e"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4cae5e95f6c43b34065de0bad6f7dbbb61b85a9d"
+git-tree-sha1 = "21f21c17fa10bdee7c7aa5b7cc10e954199743c3"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "3d317409ef0b9f9236f93ffd94044c72da745be436c9bb03b8cc48d158be6ceb"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "0d293aca476dac724f4ff0b91e9289563c8d2b3ce831d88f78e2ec451fa06a58"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "73586505883e6148ea2bb6ab9799f32acde0e406"
+git-tree-sha1 = "6f631ea3edfc6c2d9dc604e409cfaa96ec011c59"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "1101f718a0790f8019734dad125061d07ef8d406612f11329fbef572273b2cc0"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "45ebabe8c011c329df6fd5ef7e39b9dfda53ba8e18caebed3f731a2c0403fd9b"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99083fc66d25115eb7f2a838adada141d96fb4f7"
+git-tree-sha1 = "364a83e93d779282e61446eeedb1b11f604944a2"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "3b335aa756588db4f94c37eebf1ad9082e738b84568376246d65a2c2752ea11d"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "3de80c3bb389cb37ab489f110fc25f695f32912d1d50f317fa6c8a66e3bdc03a"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "80d80148438f55218e9a2e797a73133cf1457f61"
+git-tree-sha1 = "06a6ba428b6d78f1df5cb4eaff7d820e2860dd94"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "0740c0b4d8ba62cc7ca59f9339a21940ca550d33480c9e2dbbe933cab91a6fde"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "db709426bcb586cc609f1bc936e1da234791c48bb508402c8b8e37f395136948"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "900ab3756247fe74f8d124ed79eb0c3b21470b33"
+git-tree-sha1 = "31ddb440efb4319db3d1580469227999c02b9de9"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "10a2352cd0a8c1923f72b0f2d5f6fdcc4ce4e99e22348e124732e0f696b886d9"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "cb829b8f440ef88c1222eb3f024450d5674eaab325480663007ddbeec70a566b"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "782740b7183e9c7f819f53798e4bacc4ea24ce48"
+git-tree-sha1 = "a7b7c74feed1e1e6bc987117cbbad6cdfebb84ee"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "4e241eccb4b4c41483f78ebe747f2062c59f0a5453deba61b18c0ac0fd0a4004"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "616fd3ff76a55d7b9ad38e54372e039d9d2bef2235faace0c05dae5037c883d3"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e163305c83998437410d91e8f8423be0f38d755"
+git-tree-sha1 = "433b8c88c0ce448384e09e25b76b3a73b43b8ce8"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "2b85ab5d2293f9683fc99581426bf0dc3e823de4a816a2af687bf64aacad40e9"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "0d460fa890ed1ee4d87adfec97f0ce00df90f3ff6bd04f0f825bb5941b8a1303"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "60c3d4836069986198646e7f76782be03e2ac5d7"
+git-tree-sha1 = "edb8b8cb1bc2b2db0699dc6d5d9cdda550cc348e"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "59320eaa32864a6ffe7b0be9896da81efef2c6b745b6eb30e18fdba126d61882"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "bc12ff2322a68967391bc3fde0037b290870e79cfa1950e4f5b75d9cc9c8f452"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.i686-linux-gnu-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f01637d001ff173a3492579dd7fa5204d411d97d"
+git-tree-sha1 = "b597e739092f9c8f37eb504bc312b04ec2612583"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "900bb5dd2c63c5103d309b0953439ee95ce863538ef991b9c0086211072ade6d"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "8ea7d12cfc4e49e49b18bbdf590d790d97df137107db06edfead4ccc62cfe42c"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.i686-linux-gnu-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "781577ba0f661906292f8a420bf5d1d4a922cabf"
+git-tree-sha1 = "c26d4b7d6cb2b6408ae3efb0968844b3dd56b1d8"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "2af28aae3e2f9b874153db92491628c0e1881cf0c6a92dc1c8fc2ecce08d3b31"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "b0b3c8c36099aaf89ecd308bd08a643b6b6cf6de7a3134be05f457fbcabef36b"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.i686-linux-musl-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec3a4408dfb020d1cc31b273ef7a203de5751b0f"
+git-tree-sha1 = "d3909467ceface82987103e20557d6e0e7dad97d"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "8a94beb14bc0ead39abfc92b380436eeb58486c2a5fb45f14cede9964acb39f3"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "0b35db8eb5cfe82687250338f00feb69b92df4fdb70bb9a40325b2b9e212fe31"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.i686-linux-musl-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f839157080efca75dbc8d08324b55380d222a348"
+git-tree-sha1 = "9e33eb1d04bfc5ac6bc084f2663198a9b431039c"
 os = "windows"
 
     [[ImageMagick.download]]
-    sha256 = "cb92e38a032a6785b00717df892298f4db92650fe27fe48064d1d7849f7f22ec"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "ab4c65492a478e50d840055d00b20c7b005898d4e092d431ef6e77ef0d696587"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.i686-w64-mingw32-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c54bbca41a23fac538b8a7885f0448558ae20138"
+git-tree-sha1 = "380bf369ab9b5aa78f06de826ef0308089792250"
 os = "windows"
 
     [[ImageMagick.download]]
-    sha256 = "8645948aa23600d8ece38c644ad4c9f63d827ba38042b78f755f784720eb7a4e"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "d7ff36f7b17d08d214c21a220bca495cb6cb4002cb1bf0c4a1ca2d2382e2112c"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.i686-w64-mingw32-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bb85d3108a9e6d38c99448dc0f07a4a84be8699f"
+git-tree-sha1 = "f605f128905c8fdea5869d0556ab1359483478a8"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "79d04fd90376d0eaf53412522ad5c0cf5ffac702611a47a0f9082db8d56be018"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "cab79a415b1e13e42db238c839ae3dcc97d60dcb4fdffcbafd916b61eafc89ad"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "776ef83a60f2bc239f1a4de99d9c9a48f6a9a58b"
+git-tree-sha1 = "b957cb8d38fc13a4be4b54bb9a8d6cd410f802f5"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "4ac89c34b20977516d5c159186166686293a1d57a07f1790c67c750f149183e4"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "72022123048aade21d7a6a7338acec3cd01e951165fa0c83795c7525a2257a42"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d35b982b329dd1c50a4814e3d7f143263eb9cdd7"
+git-tree-sha1 = "656717d6afb5a2de8e57afc2e39f51bd1dfcd9c5"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "976760a3cbbc2af0d143bd80782d70beeda2adbdb7236b56575f7e11ec12349b"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.riscv64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ba377b1cdadf892f85d710f861038d671185af79391ec709004a195635e2a8c8"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.riscv64-linux-gnu-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "26ba6ba9edba4403ba2493294624a198030f9797"
+git-tree-sha1 = "f322d5c462bb20713912f1a71d5cfb0bff41a375"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "094d87b375311702423921853b408f93578460211b9d10d5eadf73df79640591"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "eeb4c5041f6859efa0cbcee1b6d826e0b398d62368a148f9f5eb287419d34cad"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.riscv64-linux-gnu-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
-git-tree-sha1 = "da8d328b7caaa269024b48f037e9637b06f6d4cd"
+git-tree-sha1 = "328f18e148e5f4828427a07a4f36fa08c0d578bd"
 os = "macos"
 
     [[ImageMagick.download]]
-    sha256 = "3edd014f45d231a9329196b98855b7b4d8d722331add76b057495257ae1a2198"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-apple-darwin.tar.gz"
+    sha256 = "57c8f255600aa078a9ea0e9dfd741a501c17715b038b33027b03c17a33617ac4"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-apple-darwin.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "001de48b216e58b0a1c7b106d7f8a173936ef91f"
+git-tree-sha1 = "2979a47c9335655e0f7d8d679109abac76222105"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "4676b8f79080d50a5608706273fb8dac3f7a3595750c9668912b583acebd3834"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "10aed0b92d0e8ffac2af1519cab0daa884a760644ad04dad965ae311ab178c47"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-linux-gnu-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "584c923bb4a9786d6528dbcb185ffe7d0a55653b"
+git-tree-sha1 = "288f492925988fedea29024bd6d31a41952bfeca"
 libc = "glibc"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "4f7833d984a192d8705b58a971af57ce7e0c43e27ac9d324a5d63b73902fbbf9"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ecbbee0fe138e5b6d533df448a57188a6ee31e0865eb4360af47590f9586b690"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-linux-gnu-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1513b2815b0a254781c181d80c8a220f8846c990"
+git-tree-sha1 = "7f5c3d0a9bc49e5aa9658f88928c87cc7bf68e80"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "84754104136bf887eddb04dfc198d401b53ca002a97cdae23f6e6fbc002981cd"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "cd5438f13146dd104f4862c0021deaa3ecb4131b718c45bd627fe516d54e4a82"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-linux-musl-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b5c34642ae4c0454d817048bf9f7a08ac2271c5"
+git-tree-sha1 = "b328b74a4205bf1f342a6c05b220b233f85e3b1f"
 libc = "musl"
 os = "linux"
 
     [[ImageMagick.download]]
-    sha256 = "d739801b2c25656b30c56c785fa0005bb83747f6386089c11d4afb51a8a5ee6a"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "31ad740bd8337e2026932af63c31bad56e193cb5f51f9ef19d82afa43f227717"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-linux-musl-cxx11.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
-git-tree-sha1 = "9980d2badc74903f314da22ea07e06bcf8db8036"
+git-tree-sha1 = "d66c7948b4eebf6fd27368a430f6432a705f4641"
 os = "freebsd"
 
     [[ImageMagick.download]]
-    sha256 = "4a8a10dc854a474c1622f2ee52d1d546ab2ba07129d7665ea407fff57ee62ad1"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0f37bb31a6ea7d58cb715d311597e07011d17a34e19769f9bb150bd54f1cd4f2"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-unknown-freebsd.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ebcbd437a23064fa08b9c29f6ec4855ac137101f"
+git-tree-sha1 = "235f6e0846458dc713b8150f878f1eedcf339110"
 os = "windows"
 
     [[ImageMagick.download]]
-    sha256 = "e4b4922eaf873eb46b1945708ebe1dd45ab34ff2b1d5f942d49619d83843b156"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "cb8e71892bc1b1a1fd008b62709439c32499368b911a0149e3de33913b4c67d3"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-w64-mingw32-cxx03.tar.gz"
 [[ImageMagick]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be08c9318d9919cdf76fa1dc519eed619d0e316a"
+git-tree-sha1 = "73817e9ae4f670aed7f23cce46d0848a29993e58"
 os = "windows"
 
     [[ImageMagick.download]]
-    sha256 = "28cfbcce7f884fccd535a5bb5357a43919c1bd9a228d7fcf5631678dea1f82af"
-    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v6.9.13026+0/ImageMagick.v6.9.13026.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "bc3d0838b6aac93228188108d2d97df910b45d45b63d8f4f846c03ec5d975142"
+    url = "https://github.com/JuliaBinaryWrappers/ImageMagick_jll.jl/releases/download/ImageMagick-v7.1.2001+0/ImageMagick.v7.1.2001.x86_64-w64-mingw32-cxx11.tar.gz"
