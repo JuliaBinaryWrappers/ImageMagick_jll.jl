@@ -1,6 +1,6 @@
 name = "ImageMagick_jll"
 uuid = "c73af94c-d91f-53ed-93a7-00f77d67a9d7"
-version = "7.1.2002+0"
+version = "7.1.2004+0"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
