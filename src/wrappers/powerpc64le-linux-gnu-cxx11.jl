@@ -13,7 +13,7 @@ using libzip_jll
 using Bzip2_jll
 using Zstd_jll
 JLLWrappers.@generate_wrapper_header("ImageMagick")
-JLLWrappers.@declare_library_product(libwand, "libMagickWand-7.Q16HDRI.so.10")
+JLLWrappers.@declare_library_product(libwand, "libMagickWand-7.Q16HDRI.so.11")
 JLLWrappers.@declare_executable_product(identify)
 JLLWrappers.@declare_executable_product(imagemagick_convert)
 JLLWrappers.@declare_executable_product(magick)
