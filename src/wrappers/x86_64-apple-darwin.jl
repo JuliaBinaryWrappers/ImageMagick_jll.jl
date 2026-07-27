@@ -13,7 +13,7 @@ using libzip_jll
 using Bzip2_jll
 using Zstd_jll
 JLLWrappers.@generate_wrapper_header("ImageMagick")
-JLLWrappers.@declare_library_product(libwand, "@rpath/libMagickWand-7.Q16HDRI.11.dylib")
+JLLWrappers.@declare_library_product(libwand, "@rpath/libMagickWand-7.Q16HDRI.10.dylib")
 JLLWrappers.@declare_executable_product(identify)
 JLLWrappers.@declare_executable_product(imagemagick_convert)
 JLLWrappers.@declare_executable_product(magick)
@@ -23,7 +23,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Ghostscript_jll, Libtiff_jll, OpenJpeg_jll, JpegTurbo_jll, Zlib_jll, FFTW_jll, libpng_jll, libwebp_jll, libzip_jll, Bzip2_jll, Zstd_jll)
     JLLWrappers.@init_library_product(
         libwand,
-        "lib/libMagickWand-7.Q16HDRI.11.dylib",
+        "lib/libMagickWand-7.Q16HDRI.10.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
