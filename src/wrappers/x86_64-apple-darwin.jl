@@ -14,11 +14,11 @@ using Bzip2_jll
 using Zstd_jll
 JLLWrappers.@generate_wrapper_header("ImageMagick")
 JLLWrappers.@declare_library_product(libwand, "@rpath/libMagickWand-7.Q16HDRI.10.dylib")
-JLLWrappers.@declare_executable_product(identify)
 JLLWrappers.@declare_executable_product(imagemagick_convert)
+JLLWrappers.@declare_executable_product(identify)
 JLLWrappers.@declare_executable_product(magick)
-JLLWrappers.@declare_executable_product(mogrify)
 JLLWrappers.@declare_executable_product(montage)
+JLLWrappers.@declare_executable_product(mogrify)
 function __init__()
     JLLWrappers.@generate_init_header(Ghostscript_jll, Libtiff_jll, OpenJpeg_jll, JpegTurbo_jll, Zlib_jll, FFTW_jll, libpng_jll, libwebp_jll, libzip_jll, Bzip2_jll, Zstd_jll)
     JLLWrappers.@init_library_product(
@@ -28,13 +28,13 @@ function __init__()
     )
 
     JLLWrappers.@init_executable_product(
-        identify,
-        "bin/identify",
+        imagemagick_convert,
+        "bin/convert",
     )
 
     JLLWrappers.@init_executable_product(
-        imagemagick_convert,
-        "bin/convert",
+        identify,
+        "bin/identify",
     )
 
     JLLWrappers.@init_executable_product(
@@ -43,13 +43,13 @@ function __init__()
     )
 
     JLLWrappers.@init_executable_product(
-        mogrify,
-        "bin/mogrify",
+        montage,
+        "bin/montage",
     )
 
     JLLWrappers.@init_executable_product(
-        montage,
-        "bin/montage",
+        mogrify,
+        "bin/mogrify",
     )
 
     JLLWrappers.@generate_init_footer()
